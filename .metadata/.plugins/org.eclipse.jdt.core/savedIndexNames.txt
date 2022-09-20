@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\msseverino\OneDrive - rd.com.br\Desktop\Ex2 Semaforos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+290454937.index
+1419014417.index
